@@ -2,7 +2,7 @@
 
 마일스톤 블록 기반 실시간 프로젝트 관리 매니저
 
-Link : http://gamalda.site:2/
+Link : http://gamalda.co.kr:2/
 <br/><br/><br/><br/>
 <img width="1314" alt="스크린샷 2023-09-14 오후 4 35 10" src="https://github.com/supersfel/GAMALDA/assets/81850778/75b3bf37-de2a-488d-b42a-648f8a2b3ddb">
 
